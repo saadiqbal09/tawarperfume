@@ -1,18 +1,18 @@
 {
   "h-azezya": [
-    "/hanging/azezya-1.jpeg",
-    "/hanging/azezya-2.jpeg"
+    "/hanging/azezya-1.jpg",
+    "/hanging/azezya-2.jpg"
   ],
   "h-velvet": [
     "/hanging/velvet-midnight-1.jpg"
   ],
   "h-musk": [
     "/hanging/imperial-musk-1.jpg",
-    "/hanging/imperial-musk-2.jpeg"
+    "/hanging/imperial-musk-2.jpg"
   ],
   "h-lotus": [
     "/hanging/blue-lotus-mist-1.jpg",
-    "/hanging/blue-lotus-mist-2.jpeg"
+    "/hanging/blue-lotus-mist-2.jpg"
   ],
   "v-azezya": [
     "/vent/azezya-1.jpg"
@@ -27,16 +27,16 @@
     "/vent/blue-lotus-mist-1.jpg"
   ],
   "sp10-azezya": [
-    "/spray/10ml/azezya-1.jpg"
+    "/discovery/azezya-1.jpg"
   ],
   "sp10-velvet": [
-    "/spray/10ml/velvet-midnight-1.jpg"
+    "/discovery/velvet-midnight-1.jpg"
   ],
   "sp10-musk": [
-    "/spray/10ml/imperial-musk-1.jpg"
+    "/discovery/imperial-musk-1.jpg"
   ],
   "sp10-lotus": [
-    "/spray/10ml/blue-lotus-mist-1.jpg"
+    "/discovery/blue-lotus-mist-1.jpg"
   ],
   "sp30-azezya": [
     "/spray/30ml/azezya-1.jpg"
@@ -74,11 +74,21 @@
   "sp100-lotus": [
     "/spray/100ml/blue-lotus-mist-1.jpg"
   ],
-  "card-azezya": [],
-  "card-velvet": [],
-  "card-musk": [],
-  "card-lotus": [],
-  "combo-master": [],
+  "card-azezya": [
+    "/cards/card-1.jpg"
+  ],
+  "card-velvet": [
+    "/cards/card-1.jpg"
+  ],
+  "card-musk": [
+    "/cards/card-1.jpg"
+  ],
+  "card-lotus": [
+    "/cards/card-1.jpg"
+  ],
+  "combo-master": [
+    "/combos/master-combo-1.jpg"
+  ],
   "combo-hangvent": [],
   "combo-discovery": [],
   "combo-sp30": [],

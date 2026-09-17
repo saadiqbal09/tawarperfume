@@ -202,7 +202,7 @@
       "price": 129,
       "size": "10ml",
       "duration": "Up to 150 sprays",
-      "imageFolder": "spray/10ml",
+      "imageFolder": "discovery",
       "imagePrefix": "azezya"
     },
     {
@@ -213,7 +213,7 @@
       "price": 129,
       "size": "10ml",
       "duration": "Up to 150 sprays",
-      "imageFolder": "spray/10ml",
+      "imageFolder": "discovery",
       "imagePrefix": "velvet-midnight"
     },
     {
@@ -224,7 +224,7 @@
       "price": 129,
       "size": "10ml",
       "duration": "Up to 150 sprays",
-      "imageFolder": "spray/10ml",
+      "imageFolder": "discovery",
       "imagePrefix": "imperial-musk"
     },
     {
@@ -235,7 +235,7 @@
       "price": 129,
       "size": "10ml",
       "duration": "Up to 150 sprays",
-      "imageFolder": "spray/10ml",
+      "imageFolder": "discovery",
       "imagePrefix": "blue-lotus-mist"
     },
     {
@@ -379,7 +379,7 @@
       "size": "Single Card",
       "duration": "30 days",
       "imageFolder": "cards",
-      "imagePrefix": "azezya",
+      "imagePrefix": "card",
       "hasDesign": true
     },
     {
@@ -391,7 +391,7 @@
       "size": "Single Card",
       "duration": "30 days",
       "imageFolder": "cards",
-      "imagePrefix": "velvet-midnight",
+      "imagePrefix": "card",
       "hasDesign": true
     },
     {
@@ -403,7 +403,7 @@
       "size": "Single Card",
       "duration": "30 days",
       "imageFolder": "cards",
-      "imagePrefix": "imperial-musk",
+      "imagePrefix": "card",
       "hasDesign": true
     },
     {
@@ -415,7 +415,7 @@
       "size": "Single Card",
       "duration": "30 days",
       "imageFolder": "cards",
-      "imagePrefix": "blue-lotus-mist",
+      "imagePrefix": "card",
       "hasDesign": true
     },
     {
