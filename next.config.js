@@ -9,16 +9,7 @@ const nextConfig = {
     ],
     formats: ['image/avif', 'image/webp'],
   },
-  webpack: (config, { dev }) => {
-    if (dev) {
-      config.watchOptions = {
-        poll: 2000,
-        aggregateTimeout: 500,
-        ignored: /node_modules/,
-      };
-    }
-    return config;
-  },
+  turbopack: {},
 };
 
 module.exports = nextConfig;
