@@ -1,0 +1,92 @@
+{
+  "h-azezya": [
+    "/hanging/azezya-1.jpeg",
+    "/hanging/azezya-2.jpeg"
+  ],
+  "h-velvet": [
+    "/hanging/velvet-midnight-1.jpg"
+  ],
+  "h-musk": [
+    "/hanging/imperial-musk-1.jpg",
+    "/hanging/imperial-musk-2.jpeg"
+  ],
+  "h-lotus": [
+    "/hanging/blue-lotus-mist-1.jpg",
+    "/hanging/blue-lotus-mist-2.jpeg"
+  ],
+  "v-azezya": [
+    "/vent/azezya-1.jpg"
+  ],
+  "v-velvet": [
+    "/vent/velvet-midnight-1.jpg"
+  ],
+  "v-musk": [
+    "/vent/imperial-musk-1.jpg"
+  ],
+  "v-lotus": [
+    "/vent/blue-lotus-mist-1.jpg"
+  ],
+  "sp10-azezya": [
+    "/spray/10ml/azezya-1.jpg"
+  ],
+  "sp10-velvet": [
+    "/spray/10ml/velvet-midnight-1.jpg"
+  ],
+  "sp10-musk": [
+    "/spray/10ml/imperial-musk-1.jpg"
+  ],
+  "sp10-lotus": [
+    "/spray/10ml/blue-lotus-mist-1.jpg"
+  ],
+  "sp30-azezya": [
+    "/spray/30ml/azezya-1.jpg"
+  ],
+  "sp30-velvet": [
+    "/spray/30ml/velvet-midnight-1.jpg"
+  ],
+  "sp30-musk": [
+    "/spray/30ml/imperial-musk-1.jpg"
+  ],
+  "sp30-lotus": [
+    "/spray/30ml/blue-lotus-mist-1.jpg"
+  ],
+  "sp50-azezya": [
+    "/spray/50ml/azezya-1.jpg"
+  ],
+  "sp50-velvet": [
+    "/spray/50ml/velvet-midnight-1.jpg"
+  ],
+  "sp50-musk": [
+    "/spray/50ml/imperial-musk-1.jpg"
+  ],
+  "sp50-lotus": [
+    "/spray/50ml/blue-lotus-mist-1.jpg"
+  ],
+  "sp100-azezya": [
+    "/spray/100ml/azezya-1.jpg"
+  ],
+  "sp100-velvet": [
+    "/spray/100ml/velvet-midnight-1.jpg"
+  ],
+  "sp100-musk": [
+    "/spray/100ml/imperial-musk-1.jpg"
+  ],
+  "sp100-lotus": [
+    "/spray/100ml/blue-lotus-mist-1.jpg"
+  ],
+  "card-azezya": [],
+  "card-velvet": [],
+  "card-musk": [],
+  "card-lotus": [],
+  "combo-master": [],
+  "combo-hangvent": [],
+  "combo-discovery": [],
+  "combo-sp30": [],
+  "combo-sp50": [],
+  "combo-sp100": [],
+  "combo-hanging4": [],
+  "combo-vent4": [],
+  "combo-card4": [],
+  "combo-carfresh": [],
+  "combo-mixmatch": []
+}

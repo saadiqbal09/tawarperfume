@@ -1,0 +1,2 @@
+import {getProductBySlug} from "@/lib/data"; import Image from "next/image"; import {notFound} from "next/navigation"; import ProductDetail from "@/components/ProductDetail";
+export default async function PDP({params}:{params:Promise<{category:string;slug:string}>}){const {slug}=await params;const product=await getProductBySlug(slug);if(!product)notFound();return <ProductDetail product={product}/> }

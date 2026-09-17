@@ -1,0 +1,630 @@
+{
+  "categories": {
+    "hanging": {
+      "label": "Hanging Perfumes"
+    },
+    "vent": {
+      "label": "AC Vent Perfumes"
+    },
+    "spray": {
+      "label": "Spray Perfumes"
+    },
+    "cards": {
+      "label": "Fragrance Cards"
+    },
+    "combos": {
+      "label": "Combos & Gifting"
+    }
+  },
+  "fragrances": {
+    "azezya": {
+      "name": "Azezya",
+      "tagline": "The Bold Signature",
+      "description": "A rich and captivating fragrance with a bold, sophisticated character.",
+      "top_notes": [
+        "Fruity Notes",
+        "Pink Pepper",
+        "Mandarin"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Peony",
+        "Muguet"
+      ],
+      "base_notes": [
+        "Musk",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    "velvet-midnight": {
+      "name": "Velvet Midnight",
+      "tagline": "Dark Luxury",
+      "description": "A deep, smooth and mysterious fragrance crafted for those who love a luxurious presence.",
+      "top_notes": [
+        "Bergamot",
+        "Saffron",
+        "Black Pepper"
+      ],
+      "heart_notes": [
+        "Rose",
+        "Patchouli",
+        "Incense"
+      ],
+      "base_notes": [
+        "Amber",
+        "Musk",
+        "Vanilla",
+        "Oud"
+      ]
+    },
+    "imperial-musk": {
+      "name": "Imperial Musk",
+      "tagline": "Timeless Elegance",
+      "description": "A refined musk fragrance with a warm, elegant character.",
+      "top_notes": [
+        "Citrus",
+        "Lavender",
+        "Green Notes"
+      ],
+      "heart_notes": [
+        "White Musk",
+        "Geranium",
+        "Spices"
+      ],
+      "base_notes": [
+        "Sandalwood",
+        "Amber",
+        "Musk"
+      ]
+    },
+    "blue-lotus-mist": {
+      "name": "Blue Lotus Mist",
+      "tagline": "Fresh Serenity",
+      "description": "A refreshing and calming fragrance inspired by the delicate freshness of blue lotus.",
+      "top_notes": [
+        "Lotus",
+        "Bergamot",
+        "Pear"
+      ],
+      "heart_notes": [
+        "Water Lily",
+        "Jasmine",
+        "White Flowers"
+      ],
+      "base_notes": [
+        "Musk",
+        "Cedarwood",
+        "Soft Amber"
+      ]
+    }
+  },
+  "designs": [
+    "Crown Emblem",
+    "Minimal Gold",
+    "Royal Pattern",
+    "Classic Black"
+  ],
+  "products": [
+    {
+      "id": "h-azezya",
+      "category": "hanging",
+      "fragrance": "azezya",
+      "name": "Azezya Hanging Perfume",
+      "price": 249,
+      "size": "10ml",
+      "duration": "45 days",
+      "imageFolder": "hanging",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "h-velvet",
+      "category": "hanging",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Hanging Perfume",
+      "price": 249,
+      "size": "10ml",
+      "duration": "45 days",
+      "imageFolder": "hanging",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "h-musk",
+      "category": "hanging",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Hanging Perfume",
+      "price": 249,
+      "size": "10ml",
+      "duration": "45 days",
+      "imageFolder": "hanging",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "h-lotus",
+      "category": "hanging",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Hanging Perfume",
+      "price": 249,
+      "size": "10ml",
+      "duration": "45 days",
+      "imageFolder": "hanging",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "v-azezya",
+      "category": "vent",
+      "fragrance": "azezya",
+      "name": "Azezya AC Vent Perfume",
+      "price": 339,
+      "size": "Standard",
+      "duration": "35 days",
+      "imageFolder": "vent",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "v-velvet",
+      "category": "vent",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight AC Vent Perfume",
+      "price": 339,
+      "size": "Standard",
+      "duration": "35 days",
+      "imageFolder": "vent",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "v-musk",
+      "category": "vent",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk AC Vent Perfume",
+      "price": 339,
+      "size": "Standard",
+      "duration": "35 days",
+      "imageFolder": "vent",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "v-lotus",
+      "category": "vent",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist AC Vent Perfume",
+      "price": 339,
+      "size": "Standard",
+      "duration": "35 days",
+      "imageFolder": "vent",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "sp10-azezya",
+      "category": "spray",
+      "fragrance": "azezya",
+      "name": "Azezya Discovery Series — 10ml",
+      "price": 129,
+      "size": "10ml",
+      "duration": "Up to 150 sprays",
+      "imageFolder": "spray/10ml",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "sp10-velvet",
+      "category": "spray",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Discovery Series — 10ml",
+      "price": 129,
+      "size": "10ml",
+      "duration": "Up to 150 sprays",
+      "imageFolder": "spray/10ml",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "sp10-musk",
+      "category": "spray",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Discovery Series — 10ml",
+      "price": 129,
+      "size": "10ml",
+      "duration": "Up to 150 sprays",
+      "imageFolder": "spray/10ml",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "sp10-lotus",
+      "category": "spray",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Discovery Series — 10ml",
+      "price": 129,
+      "size": "10ml",
+      "duration": "Up to 150 sprays",
+      "imageFolder": "spray/10ml",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "sp30-azezya",
+      "category": "spray",
+      "fragrance": "azezya",
+      "name": "Azezya Spray Perfume 30ml",
+      "price": 179,
+      "size": "30ml",
+      "duration": "Up to 400 sprays",
+      "imageFolder": "spray/30ml",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "sp30-velvet",
+      "category": "spray",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Spray Perfume 30ml",
+      "price": 179,
+      "size": "30ml",
+      "duration": "Up to 400 sprays",
+      "imageFolder": "spray/30ml",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "sp30-musk",
+      "category": "spray",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Spray Perfume 30ml",
+      "price": 179,
+      "size": "30ml",
+      "duration": "Up to 400 sprays",
+      "imageFolder": "spray/30ml",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "sp30-lotus",
+      "category": "spray",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Spray Perfume 30ml",
+      "price": 179,
+      "size": "30ml",
+      "duration": "Up to 400 sprays",
+      "imageFolder": "spray/30ml",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "sp50-azezya",
+      "category": "spray",
+      "fragrance": "azezya",
+      "name": "Azezya Spray Perfume 50ml",
+      "price": 289,
+      "size": "50ml",
+      "duration": "Up to 700 sprays",
+      "imageFolder": "spray/50ml",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "sp50-velvet",
+      "category": "spray",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Spray Perfume 50ml",
+      "price": 289,
+      "size": "50ml",
+      "duration": "Up to 700 sprays",
+      "imageFolder": "spray/50ml",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "sp50-musk",
+      "category": "spray",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Spray Perfume 50ml",
+      "price": 289,
+      "size": "50ml",
+      "duration": "Up to 700 sprays",
+      "imageFolder": "spray/50ml",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "sp50-lotus",
+      "category": "spray",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Spray Perfume 50ml",
+      "price": 289,
+      "size": "50ml",
+      "duration": "Up to 700 sprays",
+      "imageFolder": "spray/50ml",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "sp100-azezya",
+      "category": "spray",
+      "fragrance": "azezya",
+      "name": "Azezya Spray Perfume 100ml",
+      "price": 399,
+      "size": "100ml",
+      "duration": "Up to 1400 sprays",
+      "imageFolder": "spray/100ml",
+      "imagePrefix": "azezya"
+    },
+    {
+      "id": "sp100-velvet",
+      "category": "spray",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Spray Perfume 100ml",
+      "price": 399,
+      "size": "100ml",
+      "duration": "Up to 1400 sprays",
+      "imageFolder": "spray/100ml",
+      "imagePrefix": "velvet-midnight"
+    },
+    {
+      "id": "sp100-musk",
+      "category": "spray",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Spray Perfume 100ml",
+      "price": 399,
+      "size": "100ml",
+      "duration": "Up to 1400 sprays",
+      "imageFolder": "spray/100ml",
+      "imagePrefix": "imperial-musk"
+    },
+    {
+      "id": "sp100-lotus",
+      "category": "spray",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Spray Perfume 100ml",
+      "price": 399,
+      "size": "100ml",
+      "duration": "Up to 1400 sprays",
+      "imageFolder": "spray/100ml",
+      "imagePrefix": "blue-lotus-mist"
+    },
+    {
+      "id": "card-azezya",
+      "category": "cards",
+      "fragrance": "azezya",
+      "name": "Azezya Hanging Fragrance Card",
+      "price": 99,
+      "size": "Single Card",
+      "duration": "30 days",
+      "imageFolder": "cards",
+      "imagePrefix": "azezya",
+      "hasDesign": true
+    },
+    {
+      "id": "card-velvet",
+      "category": "cards",
+      "fragrance": "velvet-midnight",
+      "name": "Velvet Midnight Hanging Fragrance Card",
+      "price": 99,
+      "size": "Single Card",
+      "duration": "30 days",
+      "imageFolder": "cards",
+      "imagePrefix": "velvet-midnight",
+      "hasDesign": true
+    },
+    {
+      "id": "card-musk",
+      "category": "cards",
+      "fragrance": "imperial-musk",
+      "name": "Imperial Musk Hanging Fragrance Card",
+      "price": 99,
+      "size": "Single Card",
+      "duration": "30 days",
+      "imageFolder": "cards",
+      "imagePrefix": "imperial-musk",
+      "hasDesign": true
+    },
+    {
+      "id": "card-lotus",
+      "category": "cards",
+      "fragrance": "blue-lotus-mist",
+      "name": "Blue Lotus Mist Hanging Fragrance Card",
+      "price": 99,
+      "size": "Single Card",
+      "duration": "30 days",
+      "imageFolder": "cards",
+      "imagePrefix": "blue-lotus-mist",
+      "hasDesign": true
+    },
+    {
+      "id": "combo-master",
+      "category": "combos",
+      "name": "Master Combo — Complete TAWAR Collection",
+      "price": 1599,
+      "size": "10 pieces",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "master-combo",
+      "isCombo": true,
+      "comboType": "master",
+      "comboIncludes": [
+        "1× Hanging Perfume",
+        "1× AC Vent Perfume",
+        "1× Spray 10ml",
+        "1× Spray 30ml",
+        "1× Spray 50ml",
+        "1× Spray 100ml",
+        "4× Fragrance Cards"
+      ],
+      "youSave": 381,
+      "fragranceSlots": 1,
+      "designSlots": 1
+    },
+    {
+      "id": "combo-hangvent",
+      "category": "combos",
+      "name": "Hanging + AC Vent Combo",
+      "price": 550,
+      "size": "3 pieces",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "hanging-vent-combo",
+      "isCombo": true,
+      "comboType": "hangvent",
+      "comboIncludes": [
+        "1× Hanging Perfume",
+        "1× AC Vent Perfume",
+        "1× Fragrance Card"
+      ],
+      "youSave": 137,
+      "fragranceSlots": 1,
+      "designSlots": 1
+    },
+    {
+      "id": "combo-discovery",
+      "category": "combos",
+      "name": "Discovery Spray Combo — 10ml × 4",
+      "price": 299,
+      "size": "4 sprays × 10ml",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "discovery-spray-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× Discovery Series Spray 10ml (all 4 fragrances)"
+      ],
+      "youSave": 217,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-sp30",
+      "category": "combos",
+      "name": "30ml Spray Combo",
+      "price": 499,
+      "size": "4 sprays × 30ml",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "spray-30-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× Spray Perfume 30ml"
+      ],
+      "youSave": 217,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-sp50",
+      "category": "combos",
+      "name": "50ml Spray Combo",
+      "price": 799,
+      "size": "4 sprays × 50ml",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "spray-50-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× Spray Perfume 50ml"
+      ],
+      "youSave": 357,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-sp100",
+      "category": "combos",
+      "name": "100ml Spray Combo",
+      "price": 1099,
+      "size": "4 sprays × 100ml",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "spray-100-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× Spray Perfume 100ml"
+      ],
+      "youSave": 497,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-hanging4",
+      "category": "combos",
+      "name": "Hanging Perfume Combo — 4 pieces",
+      "price": 599,
+      "size": "4 hanging",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "hanging-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× Hanging Perfume"
+      ],
+      "youSave": 397,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-vent4",
+      "category": "combos",
+      "name": "AC Vent Perfume Combo — 4 pieces",
+      "price": 799,
+      "size": "4 vent",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "vent-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-4",
+      "comboIncludes": [
+        "4× AC Vent Perfume"
+      ],
+      "youSave": 557,
+      "fragranceSlots": 4,
+      "designSlots": 0
+    },
+    {
+      "id": "combo-card4",
+      "category": "combos",
+      "name": "Fragrance Card Combo — 4 pieces",
+      "price": 249,
+      "size": "4 cards",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "card-combo",
+      "isCombo": true,
+      "comboType": "multi-fragrance-design-4",
+      "comboIncludes": [
+        "4× Fragrance Cards"
+      ],
+      "youSave": 147,
+      "fragranceSlots": 4,
+      "designSlots": 4
+    },
+    {
+      "id": "combo-carfresh",
+      "category": "combos",
+      "name": "Car Freshness Combo — 12 pieces",
+      "price": 2199,
+      "size": "12 pieces",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "car-freshness-combo",
+      "isCombo": true,
+      "comboType": "carfresh",
+      "comboIncludes": [
+        "4× Hanging Perfume",
+        "4× AC Vent Perfume",
+        "4× Fragrance Cards"
+      ],
+      "youSave": 1353,
+      "fragranceSlots": 12,
+      "designSlots": 4
+    },
+    {
+      "id": "combo-mixmatch",
+      "category": "combos",
+      "name": "Mix & Match Combo — Build Your Own 4",
+      "price": 0,
+      "size": "4 pieces (your choice)",
+      "duration": "Varies",
+      "imageFolder": "combos",
+      "imagePrefix": "mix-match-combo",
+      "isCombo": true,
+      "comboType": "mixmatch",
+      "comboIncludes": [
+        "Pick any 4 products — auto 20% discount"
+      ],
+      "youSave": 0,
+      "fragranceSlots": 4,
+      "designSlots": 4
+    }
+  ]
+}

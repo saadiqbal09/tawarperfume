@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function WhatsAppButton({href}:{href:string}){return <Link href={href} target="_blank" className="inline-flex rounded-full bg-[#25D366] px-6 py-3 text-sm font-medium text-white">Order on WhatsApp</Link>}

@@ -1,0 +1,4 @@
+import "./globals.css"; import {Playfair_Display,Inter} from "next/font/google"; import Navbar from "@/components/Navbar"; import Footer from "@/components/Footer"; import {CartProvider} from "@/lib/cart-context"; import {GoogleAnalytics} from "@next/third-parties/google";
+const playfair=Playfair_Display({subsets:["latin"],variable:"--font-playfair"}); const inter=Inter({subsets:["latin"],variable:"--font-inter"});
+export const metadata={title:"TAWAR Fragrance House",description:"Premium car perfumes by TAWAR Fragrance House"};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en" className={`${playfair.variable} ${inter.variable}`}><body className="font-sans"><CartProvider><Navbar/><main className="mx-auto min-h-[70vh] max-w-7xl px-5 py-8">{children}</main><Footer/></CartProvider>{process.env.NEXT_PUBLIC_GA_ID&&<GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID}/>}</body></html>}

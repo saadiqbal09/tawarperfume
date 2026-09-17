@@ -1,0 +1,1 @@
+import {NextResponse} from "next/server"; export async function POST(){if(!process.env.RESEND_API_KEY)return NextResponse.json({ok:false,message:"Resend not configured"});return NextResponse.json({ok:true});}
